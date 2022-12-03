@@ -1,0 +1,99 @@
+,Symbol,Company Name,Market cap,Price,Chg % 1D,Chg 1D,Vol 1D,Volume * Price 1D,Employees,Sector
+0,AAPL,Apple Inc,2351000.0,147.81,-0.34,-0.50,65.446,9674.0,164000.0,Electronic Technology
+1,MSFT,Microsoft Corp.,1901000.0,255.02,0.13,0.33,21.528,5490.0,221000.0,Technology Services
+2,GOOG,Alphabet Inc (Google) Class C,1303000.0,100.83,-0.44,-0.45,18.821,1898.0,156500.0,Technology Services
+3,AMZN,"Amazon.com, Inc.",960282.0,94.13,-1.43,-1.37,72.496,6824.0,1608000.0,Retail Trade
+4,BRK.A,Berkshire Hathaway Inc.,696418.0,477402.98,0.07,317.98,0.002794,1334.0,372000.0,Finance
+5,TSLA,"Tesla, Inc.",615320.0,194.86,0.08,0.16,73.645,14350.0,99290.0,Consumer Durables
+6,UNH,UnitedHealth Group Incorporated,500961.0,536.16,-0.14,-0.75,2.346,1258.0,350000.0,Health Services
+7,JNJ,Johnson & Johnson,467679.0,178.88,0.08,0.14,5.824,1042.0,141700.0,Health Technology
+8,XOM,Exxon Mobil Corporation,452436.0,109.86,-0.85,-0.94,15.248,1675.0,63000.0,Energy Minerals
+9,V,Visa Inc.,448747.0,217.66,0.30,0.66,5.133,1117.0,26500.0,Commercial Services
+10,WMT,Walmart Inc.,415876.0,153.22,-0.10,-0.15,6.911,1059.0,2300000.0,Retail Trade
+11,NVDA,NVIDIA Corporation,415150.0,168.76,-1.51,-2.59,37.139,6268.0,22473.0,Electronic Technology
+12,JPM,JP Morgan Chase & Co.,396452.0,135.16,-0.79,-1.08,8.932,1207.0,271025.0,Finance
+13,PG,Procter & Gamble Company (The),356900.0,150.61,0.91,1.36,4.938,743.754,106000.0,Consumer Non-Durables
+14,LLY,Eli Lilly and Company,356089.0,374.76,1.20,4.43,1.926,721.626,35000.0,Health Technology
+15,CVX,Chevron Corporation,350047.0,181.03,-0.80,-1.46,6.852,1240.0,42595.0,Energy Minerals
+16,MA,Mastercard Incorporated,346183.0,360.06,-0.21,-0.74,2.016,725.732,24000.0,Commercial Services
+17,HD,"Home Depot, Inc. (The)",334283.0,327.99,0.28,0.92,3.644,1195.0,490600.0,Retail Trade
+18,META,"Meta Platforms, Inc.",327455.0,123.49,2.53,3.05,39.95,4933.0,71970.0,Technology Services
+19,BAC,Bank of America Corporation,289449.0,36.08,-1.29,-0.47,42.295,1526.0,208000.0,Finance
+20,ABBV,AbbVie Inc.,289430.0,163.66,1.26,2.03,4.305,704.571,50000.0,Health Technology
+21,PFE,"Pfizer, Inc.",285774.0,50.91,-0.33,-0.17,16.882,859.444,79000.0,Health Technology
+22,MRK,"Merck & Company, Inc.",278995.0,110.04,0.22,0.24,6.944,764.071,68000.0,Health Technology
+23,KO,Coca-Cola Company (The),278282.0,64.35,0.88,0.56,13.643,877.924,79000.0,Consumer Non-Durables
+24,PEP,"PepsiCo, Inc.",255827.0,185.69,-0.11,-0.21,3.548,658.783,309000.0,Consumer Non-Durables
+25,AVGO,Broadcom Inc.,225321.0,540.80,-1.81,-9.95,1.932,1045.0,20000.0,Electronic Technology
+26,ORCL,Oracle Corporation,224725.0,83.35,-0.90,-0.76,4.799,399.991,143000.0,Technology Services
+27,TMO,Thermo Fisher Scientific Inc,220806.0,563.00,-0.28,-1.56,1.014,571.137,130000.0,Health Technology
+28,COST,Costco Wholesale Corporation,218881.0,494.53,-1.85,-9.33,3.632,1796.0,304000.0,Retail Trade
+29,CSCO,"Cisco Systems, Inc.",204173.0,49.70,-0.54,-0.27,12.325,612.559,83300.0,Electronic Technology
+30,MCD,McDonald's Corporation,200245.0,273.40,0.00,0.00,2.808,767.577,200000.0,Consumer Services
+31,DHR,Danaher Corporation,199629.0,274.23,-0.11,-0.31,1.811,496.52,80000.0,Health Technology
+32,ACN,Accenture plc,199521.0,300.13,-0.89,-2.70,1.745,523.594,721000.0,Technology Services
+33,TMUS,"T-Mobile US, Inc.",189622.0,152.41,0.40,0.60,3.047,464.329,75000.0,Communications
+34,ABT,Abbott Laboratories,188463.0,108.09,0.15,0.16,4.944,534.406,113000.0,Health Technology
+35,DIS,Walt Disney Company (The),181320.0,99.43,0.85,0.84,12.608,1254.0,220000.0,Consumer Services
+36,NKE,"Nike, Inc.",175558.0,112.20,0.98,1.09,5.892,661.079,79100.0,Consumer Non-Durables
+37,WFC,Wells Fargo & Company,175054.0,45.94,-1.98,-0.93,29.82,1370.0,247848.0,Finance
+38,BMY,Bristol-Myers Squibb Company,172495.0,81.13,0.31,0.25,6.367,516.53,32200.000000000004,Health Technology
+39,NEE,"NextEra Energy, Inc.",169306.0,85.20,0.44,0.37,6.317,538.204,15000.0,Utilities
+40,LIN,Linde plc,166779.0,337.35,0.03,0.09,1.201,405.074,72327.0,Process Industries
+41,UPS,"United Parcel Service, Inc.",163788.0,189.39,-0.42,-0.80,3.662,693.491,534000.0,Transportation
+42,PM,Philip Morris International Inc,161686.0,104.30,1.80,1.84,5.847,609.872,69600.0,Consumer Non-Durables
+43,TXN,Texas Instruments Incorporated,161239.0,177.66,0.09,0.16,3.823,679.179,31000.0,Electronic Technology
+44,VZ,Verizon Communications Inc.,160349.0,38.18,-0.39,-0.15,21.677,827.633,118400.0,Communications
+45,ADBE,Adobe Inc.,158777.0,341.53,-0.75,-2.58,2.742,936.473,25988.0,Technology Services
+46,MS,Morgan Stanley,155659.0,92.10,-0.97,-0.90,5.198,478.74,74814.0,Finance
+47,CMCSA,Comcast Corporation,155037.0,35.86,-1.16,-0.42,25.809,925.513,189000.0,Consumer Services
+48,SCHW,Charles Schwab Corporation (The),153931.0,82.46,0.89,0.73,4.227,348.562,33400.0,Finance
+49,AMGN,Amgen Inc.,152342.0,285.51,-0.15,-0.43,2.267,647.284,24200.0,Health Technology
+50,COP,ConocoPhillips,152245.0,122.18,-0.72,-0.88,4.88,596.205,9900.0,Energy Minerals
+51,RTX,Raytheon Technologies Corporation,148491.0,101.01,1.52,1.51,4.34,438.348,174000.0,Electronic Technology
+52,HON,Honeywell International Inc.,147292.0,219.08,0.78,1.69,2.194,480.718,99000.0,Producer Manufacturing
+53,CRM,"Salesforce, Inc.",144560.0,144.56,-1.66,-2.44,15.087,2181.0,73541.0,Technology Services
+54,NFLX,"Netflix, Inc.",142589.0,320.41,1.09,3.46,12.69,4066.0,11300.0,Technology Services
+55,QCOM,QUALCOMM Incorporated,140865.0,125.66,-0.91,-1.15,6.122,769.312,51000.0,Electronic Technology
+56,T,AT&T Inc.,135556.0,19.02,-0.89,-0.17,33.48,636.783,203000.0,Communications
+57,CVS,CVS Health Corporation,134787.0,102.58,0.91,0.93,4.479,459.467,300000.0,Retail Trade
+59,IBM,International Business Machines Corporation,134416.0,148.67,-0.33,-0.49,2.9,431.142,307600.0,Technology Services
+60,UNP,Union Pacific Corporation,132016.0,214.73,-0.56,-1.20,1.76,377.924,29905.0,Transportation
+61,LMT,Lockheed Martin Corporation,130049.0,496.23,2.59,12.54,1.744,865.654,114000.0,Electronic Technology
+62,LOW,"Lowe's Companies, Inc.",129913.99999999999,214.84,-0.30,-0.64,3.242,696.608,340000.0,Retail Trade
+63,GS,"Goldman Sachs Group, Inc. (The)",128877.99999999999,380.58,-0.84,-3.23,1.933,735.473,43900.0,Finance
+64,ELV,"Elevance Health, Inc.",125050.0,523.60,-0.31,-1.65,0.630287,330.018,98200.0,Health Services
+65,CAT,"Caterpillar, Inc.",122884.0,236.13,0.19,0.44,2.218,523.8,107700.0,Producer Manufacturing
+66,INTC,Intel Corporation,121375.0,29.41,-1.41,-0.42,31.546,927.767,121100.0,Electronic Technology
+67,AMD,Advanced Micro Devices Inc,120894.0,74.98,-3.23,-2.50,64.376,4827.0,15500.0,Electronic Technology
+68,SBUX,Starbucks Corporation,120534.0,105.05,1.63,1.68,7.917,831.668,402000.0,Consumer Services
+69,SPGI,S&P Global Inc.,117223.0,359.80,-0.77,-2.78,2.026,729.114,22850.0,Commercial Services
+70,AXP,American Express Company,117129.0,156.75,-0.48,-0.75,2.285,358.236,64000.0,Finance
+71,INTU,Intuit Inc.,114595.0,407.92,-1.96,-8.15,1.876,765.27,17300.0,Technology Services
+72,ADP,"Automatic Data Processing, Inc.",111962.0,269.90,0.73,1.95,1.807,487.7,60000.0,Technology Services
+73,GILD,"Gilead Sciences, Inc.",111665.0,89.03,1.29,1.13,6.73,599.205,14400.0,Health Technology
+74,BA,Boeing Company (The),108987.0,182.87,4.03,7.09,10.564,1932.0,142000.0,Electronic Technology
+75,BLK,"BlackRock, Inc.",107086.0,712.98,-1.27,-9.20,1.143,814.839,18400.0,Finance
+76,MDT,Medtronic plc.,105827.0,79.62,0.47,0.37,6.34,504.752,95000.0,Health Technology
+77,BX,Blackstone Inc.,102131.0,85.16,0.14,0.12,13.588,1157.0,3795.0,Finance
+78,CI,Cigna Corporation,100038.0,327.20,1.16,3.75,1.301,425.776,73700.0,Health Services
+79,ISRG,"Intuitive Surgical, Inc.",96209.0,272.25,-0.82,-2.24,1.629,443.569,9793.0,Health Technology
+80,GE,General Electric Company,94931.0,86.88,1.90,1.62,4.48,389.26,168000.0,Producer Manufacturing
+81,MDLZ,"Mondelez International, Inc.",93285.0,68.31,0.32,0.22,3.798,259.469,79000.0,Consumer Non-Durables
+82,TJX,"TJX Companies, Inc. (The)",92660.0,80.19,0.56,0.45,4.777,383.053,340000.0,Retail Trade
+83,SYK,Stryker Corporation,92000.0,243.11,0.97,2.34,1.192,289.815,46000.0,Health Technology
+85,C,"Citigroup, Inc.",91497.0,47.24,-1.13,-0.54,12.745,602.095,223400.0,Finance
+86,CB,Chubb Limited,90962.0,219.16,0.38,0.84,1.11,243.195,31000.0,Finance
+87,MMC,"Marsh & McLennan Companies, Inc.",86261.0,173.91,0.51,0.88,1.321,229.751,83000.0,Finance
+88,ADI,"Analog Devices, Inc.",85883.0,168.63,-1.66,-2.85,3.055,515.2,24450.0,Electronic Technology
+89,MO,"Altria Group, Inc.",85361.0,47.63,1.32,0.62,7.654,364.544,6000.0,Consumer Non-Durables
+90,EL,"Estee Lauder Companies, Inc. (The)",85282.0,239.01,3.04,7.05,2.003,478.636,63000.0,Consumer Non-Durables
+91,PYPL,"PayPal Holdings, Inc.",85114.0,74.66,-4.93,-3.87,24.238,1810.0,30900.0,Commercial Services
+92,NOC,Northrop Grumman Corporation,83974.0,545.60,2.89,15.30,0.843649,460.295,88000.0,Electronic Technology
+93,NOW,"ServiceNow, Inc.",83565.0,412.87,-2.99,-12.73,1.245,513.992,16881.0,Technology Services
+94,REGN,"Regeneron Pharmaceuticals, Inc.",83447.0,766.39,0.68,5.15,0.441486,338.35,10368.0,Health Technology
+95,VRTX,Vertex Pharmaceuticals Incorporated,82493.0,321.37,0.19,0.61,1.095,351.862,3900.0,Health Technology
+96,EOG,"EOG Resources, Inc.",81630.0,138.97,-1.12,-1.57,3.933,546.506,2800.0,Energy Minerals
+97,BKNG,Booking Holdings Inc. Common Stock,80893.0,2085.44,1.22,25.15,0.27049700000000004,564.105,20300.0,Consumer Services
+98,PGR,Progressive Corporation (The),77528.0,132.51,0.95,1.25,1.253,166.066,49077.0,Finance
+99,DUK,Duke Energy Corporation (Holding Company),76637.0,99.52,-0.79,-0.79,2.098,208.764,27605.0,Utilities
