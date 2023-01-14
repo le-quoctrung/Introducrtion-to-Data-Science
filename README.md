@@ -6,7 +6,7 @@
  | `20127121`   | Trần Ngô Gia Bảo |
  | `20127369`   | Lê Quốc Trung    |
  | `20127435`   | Trần Văn An      |
- | `19127437`   | Đinh Trọng Khánh |
+
  
  
  
